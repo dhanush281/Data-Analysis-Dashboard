@@ -29,7 +29,7 @@ Bhaskar-store Product-sales wants to create an annual sales report for 2022. So 
 ![Screenshot (500)](https://github.com/dhanush281/Data-Analysis-Dashboard/blob/main/Dashboard.img.png)
 
 ## Project Insight
-- Women customers are more likely to buy products compared to different salesman (~65%).
+- customers are more likely to buy products compared to different salesman (~65%).
 - The places of Guntur, Ongole and Tenali e.t.c are the top 3 product sellers.
 - The maximum number of products salesman sell.
 - More than 90% of the products delivered.
